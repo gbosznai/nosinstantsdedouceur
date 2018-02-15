@@ -92,7 +92,7 @@ if(isset($_POST['envoyer'])) { // si le bouton "Envoyer" est appuyé
       </div>
     </div>
     <div id="footer">
-      <p>Nos instants de douceur</p>
+      <p><a href="login.php">Espace Administration</a></p>
     </div>
   </div>
 </body></html>
